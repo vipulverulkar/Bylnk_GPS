@@ -50,11 +50,11 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "hqvEkGhH2rdfaYP3eynOueS8x_WuO-1T";
+char auth[] = "YourBlynkAuthToken";
 
 // Your GPRS credentials
 // Leave empty, if missing user or pass
-char apn[]  = "XOX";
+char apn[]  = "YourAPN";
 char user[] = "";
 char pass[] = "";
 
